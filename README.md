@@ -17,9 +17,9 @@ https://github.com/user-attachments/assets/41cdf226-f3e1-408d-bf27-a1304a25bc7e
    - Siemens S7-300/S7-400 PLC hardware or PLCSIM for simulation.
 
 2. **Installation**:
-   - Clone the repository.
+   - Download Simatic-Manager
    - Open the project in SIMATIC Manager.
-   - Download the program to the PLC or simulate using PLCSIM.
+   - program the PLC logic or simulate using PLCSIM by using the logic given above.
 
 3. **Usage**:
    - Connect the push button to a digital input (e.g., I0.0) and the output device to a digital output (e.g., Q0.0).
