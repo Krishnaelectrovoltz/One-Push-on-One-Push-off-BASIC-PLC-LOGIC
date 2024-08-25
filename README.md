@@ -2,7 +2,8 @@
 
 This repository contains a simple PLC logic project developed using Siemens SIMATIC Manager Step 7. The project demonstrates a basic control logic where a single push button alternates the state of an output (e.g., a light or motor) between ON and OFF with each press, utilizing a positive edge detection (positive pulse).
 
-![Alt text](one push on-off.jpg)
+![one push on-off](https://github.com/user-attachments/assets/f07d764b-0c07-4c0b-b484-990db2c37c9a)
+
 ### Key Features
 - **Push Button Control**: A single push button (input) is used to toggle the state of an output device.
 - **Positive Edge Detection**: The logic uses a positive edge (rising edge) trigger to detect each push of the button.
