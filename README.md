@@ -10,7 +10,7 @@ https://github.com/user-attachments/assets/41cdf226-f3e1-408d-bf27-a1304a25bc7e
 - **Push Button Control**: A single push button (input) is used to toggle the state of an output device.
 - **Positive Edge Detection**: The logic uses a positive edge (rising edge) trigger to detect each push of the button.
 - **Toggle Functionality**: On the first push, the output turns ON; on the next push, the output turns OFF, and this cycle continues with each subsequent push.
-
+ 
 ### Getting Started
 1. **Requirements**:
    - Siemens SIMATIC Manager Step 7.
